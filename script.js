@@ -1,0 +1,5 @@
+const myinput =doccument.getElementById("myinput")
+
+function add() {
+    myinput.value= Number(myinput.value) + 1
+}
